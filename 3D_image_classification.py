@@ -1,13 +1,4 @@
 """
-Title: 3D image classification from CT scans
-Author: [Hasib Zunair](https://twitter.com/hasibzunair)
-Date created: 2020/09/23
-Last modified: 2024/01/11
-Description: Train a 3D convolutional neural network to predict presence of pneumonia.
-Accelerator: GPU
-"""
-
-"""
 ## Introduction
 
 This example will show the steps needed to build a 3D convolutional neural network (CNN)
