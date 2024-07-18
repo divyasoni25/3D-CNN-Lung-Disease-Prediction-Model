@@ -39,12 +39,12 @@ Hence, the task is a binary classification problem.
 """
 
 # Download url of normal CT scans.
-url = "https://github.com/hasibzunair/3D-image-classification-tutorial/releases/download/v0.2/CT-0.zip"
+url = "https://github.com/3D-image-classification-tutorial/releases/download/v0.2/CT-0.zip"
 filename = os.path.join(os.getcwd(), "CT-0.zip")
 keras.utils.get_file(filename, url)
 
 # Download url of abnormal CT scans.
-url = "https://github.com/hasibzunair/3D-image-classification-tutorial/releases/download/v0.2/CT-23.zip"
+url = "https://github.com/3D-image-classification-tutorial/releases/download/v0.2/CT-23.zip"
 filename = os.path.join(os.getcwd(), "CT-23.zip")
 keras.utils.get_file(filename, url)
 
