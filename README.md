@@ -33,7 +33,7 @@ Lung cancer is one of the leading causes of cancer-related deaths worldwide. Ear
 ## Dataset
 This project uses a publicly available dataset of lung CT scans. Ensure you have the proper permissions to use the dataset.
 
-- **[Dataset Source]((https://www.medrxiv.org/content/10.1101/2020.05.20.20100362v1))**
+- **[Dataset Source](https://www.medrxiv.org/content/10.1101/2020.05.20.20100362v1)**
   
 Please download the dataset and place it in the `data/` directory before running the code.
 
