@@ -72,9 +72,9 @@ Please download the dataset and place it in the `data/` directory before running
    ```
 
 4. **Visualize Results**
-
+   ```bash
    python visualize.py
-
+   ```
 
 ## Results
 The model achieves high accuracy and recall rates in detecting lung diseases from CT scans. Detailed performance metrics and confusion matrices are provided in the `results/` directory.
